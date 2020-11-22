@@ -35,7 +35,7 @@ ou sur le git dans le dossier STL, pour modifier le modèle c'est dans le dossie
 ---- 
 Electronique
 
-![cover](https://github.com/Diallomm/Automatic-hand-sanitizer-arduino/blob/master/Electronic/Presse gel.jpg)
+![cover](https://github.com/Diallomm/Automatic-hand-sanitizer-arduino/blob/master/Electronic/Presse%20gel.jpg)
 
 ----
 Code arduino
